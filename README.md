@@ -30,3 +30,15 @@ yarn add jsdom-quokka-plugin @babel/register --dev
 3. Add a `.quokka` project file that tells Quokka to use the 
 `jsdom-quokka-plugin` and to transpile your files using the `react-app` babel
 preset.
+
+*Please note:* you may install the `jsdom-quokka-plugin` and `@babel/register`
+packages to your [global quokka folder](https://quokkajs.com/docs/configuration.html#global-config-file)
+if you don't want to pollute your project's node modules. If you install
+globally, you will not need to add them again for subsequent projects. 
+
+To install the packages in your global quokka folder:
+
+```
+cd ~/.quokka
+npm install jsdom-quokka-plugin
+```
