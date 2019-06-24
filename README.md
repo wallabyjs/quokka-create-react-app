@@ -40,5 +40,5 @@ To install the packages in your global quokka folder:
 
 ```
 cd ~/.quokka
-npm install jsdom-quokka-plugin
+npm install jsdom-quokka-plugin @babel/register
 ```
