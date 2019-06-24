@@ -1,7 +1,7 @@
 ## Quokka Create-React-App Sample
 
-This example project shows Quokka configured for an create-react-app created
-using v3.0.1 with all defaults.
+This example project shows Quokka configured for a create-react-app 
+application created using v3.0.1 with all defaults.
 
 ## Try Quokka on this project
 
